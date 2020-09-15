@@ -2,7 +2,6 @@ pool:
   vmImage: 'ubuntu-16.04'
 trigger:
   - master
-steps:
   pool:
     vmImage: ubuntu-16.04
   trigger:
